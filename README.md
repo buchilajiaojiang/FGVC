@@ -4,7 +4,7 @@
 
 FGVC-code压缩文件结构如下所示
 |                     |--data  #实验数据
-|-----Deepfashion-----|--model #模型
+|-----FashionNet-----|--model #模型
 |                     |--traincode #训练代码
 |
 |                     |--data 
