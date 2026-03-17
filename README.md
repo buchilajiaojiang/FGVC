@@ -63,13 +63,9 @@ All images are manually curated to remove low-quality or irrelevant samples.
 The full dataset (~100GB) is available at:
 
 - HuggingFace:  
-https://huggingface.co/datasets/yourname/FashionNet
-
-- Mendeley Data (DOI):  
-https://data.mendeley.com/...
-
+https://huggingface.co/datasets/zstu123123/FashionNet
 ---
 
 ## Code
 
-The training code for the proposed FGVC model is provided in:
+The training code for the proposed FGVC model is provided in: FGVC-code.zip
