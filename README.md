@@ -32,7 +32,6 @@ Fabric | 26 | 117,520 |
 Gender | 2 | 10,000 |
 Season | 2 | 10,000 |
 Sleeve Type | 20 | 192,807 |
-Category | 51 | 299378 | 
 Additionally, the **category-level dataset** contains:
 
 - **51 clothing categories**
