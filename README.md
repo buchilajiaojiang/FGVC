@@ -19,23 +19,21 @@ To facilitate research in this area, we construct **FashionNet**, a large-scale 
 FashionNet contains:
 
 - **892,841 images**
-- **162 fine-grained categories**
-- **8 attribute groups**
+- **162 fine-grained labels**
+- **8 attribute groups and 1 category-level classification task**
 
-| Attribute Group | Subcategories | Images |
-|---|---|---|
-Accessories | 22 | 83,019 |
-Clothes Length | 6 | 30,000 |
-Collar | 22 | 95,117 |
-Contour | 11 | 55,000 |
-Fabric | 26 | 117,520 |
-Gender | 2 | 10,000 |
-Season | 2 | 10,000 |
-Sleeve Type | 20 | 192,807 |
-Additionally, the **category-level dataset** contains:
-
-- **51 clothing categories**
-- **299,378 images**
+| Task / Attribute Group | Subcategories | Images |
+|---|---:|---:|
+| Accessories | 22 | 83,019 |
+| Clothes Length | 6 | 30,000 |
+| Collar | 22 | 95,117 |
+| Contour | 11 | 55,000 |
+| Fabric | 26 | 117,520 |
+| Gender | 2 | 10,000 |
+| Season | 2 | 10,000 |
+| Sleeve Type | 20 | 192,807 |
+| Category | 51 | 299,378 |
+| **Total** | **162** | **892,841** |
 
 ---
 
